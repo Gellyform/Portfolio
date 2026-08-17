@@ -454,6 +454,26 @@ form{
   resize:none;
 }
 
+.forms button{
+  min-width: 500px;
+  padding: 1rem 2rem;
+  border: none;
+  border-radius: 5px;
+  background-color: #504E4E;
+  color: white;
+  transition: background-color 0.2s ease, transform 0.3s ease;
+}
+
+.forms button:hover{
+  background-color: #3a3a3a;
+}
+
+.forms button:active{
+  background-color: #3a3a3a;
+  transform: scale(1.02);
+}
+
+
 /* media area */
 
 @media (max-width: 768px){
