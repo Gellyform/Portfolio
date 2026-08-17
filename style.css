@@ -806,6 +806,9 @@ form{
     padding: 2rem;
     resize:none;
   }
+  .forms button{
+    min-width: 375px;
+  }
 
 }
 
