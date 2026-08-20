@@ -97,7 +97,6 @@ nav{
   padding-bottom: 5rem;
   gap: 30px ;
   z-index: 100;
-  scroll-snap-align: start;
 }
 
 
