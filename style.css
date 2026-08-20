@@ -796,7 +796,7 @@ form{
     min-width: 375px;
     min-height: 122px;
     border-radius: 11px;
-    padding: 2rem;
+    padding: 1rem;
     resize:none;
   }
   .forms button{
