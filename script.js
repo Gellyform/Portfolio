@@ -7,5 +7,6 @@ function buttonDisabled(){
   if(inputName.value.trim() === "" 
     || inputEmail.value.trim() === ""
     || message.value.trim() === ""){
-    messageBtn.disabled ="true"
+    messageBtn.disabled ="true";
   }
+}
