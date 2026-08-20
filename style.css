@@ -8,7 +8,6 @@
 
 html {
   scroll-behavior: smooth;
-  scroll-snap-type: y mandatory;
 }
 
 body{
@@ -24,7 +23,6 @@ body::selection{
 
 section{
   min-height: 100vh;
-  scroll-snap-align: start;
 }
 
 nav{
