@@ -16,11 +16,6 @@ body{
   background-color: #F6F6F6;
 }
 
-body::selection{
-  color: rgb(65, 253, 65);
-  background-color: black;
-}
-
 section{
   min-height: 100vh;
 }
